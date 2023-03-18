@@ -104,10 +104,10 @@ ul li {
 #wrapper {
   display: flex;
   flex-wrap: wrap;
-  background-color: #e5d2d2;
+  background-color: #fdf9f9;
   border-radius: 5px;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .08);
-  border-top: 1px solid #eaeaea;
+  border-top: 1px solid #faf5f5;
   padding: 40px;
   margin: 20px auto; /* center in the viewport */
   max-width: 960px /* max-width of the layout */
